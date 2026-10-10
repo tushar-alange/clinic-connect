@@ -7,7 +7,7 @@ export const clinicConfig = {
   phone: "[CLINIC PHONE]",
   hours: "[CLINIC HOURS]",
   mapUrl: "[MAPS URL]",
-  googleFormUrl: "[GOOGLE_FORM_URL]",
+  googleFormUrl: "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform",
   timeSlots: ["[TIME SLOT 1]", "[TIME SLOT 2]", "[TIME SLOT 3]"],
   services: [
     { name: "[CLINIC SERVICE 01]", description: "[SERVICE DESCRIPTION]" },
