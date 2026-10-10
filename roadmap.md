@@ -1,0 +1,3 @@
+- [ ] Build a responsive, accessible clinic website with centralized placeholders and Google Forms-only appointment links.
+- [ ] Replace the starter README with exact Google Form/Sheets setup, configuration, deployment, and mobile-test instructions.
+- [ ] Verify preview health, responsive rendering, booking link targets, and absence of WhatsApp references.
